@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>Page Title</title>
+</head>
 <body>
 
-<h2>Instituição deste curso</h2>
-<img src="https://fdr.com.br/wp-content/uploads/2023/01/uepg.jpg" alt="Trulli" width="700" height="600">
+<h1>Uau, que nome lindo, prazer em conhecer você!</h1>
 
 </body>
 </html>
